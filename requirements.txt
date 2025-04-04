@@ -1,5 +1,2 @@
-streamlit
-pdfplumber
-transformers
-pandas
-torch
+streamlit==1.36.0
+pdfplumber==0.11.4
